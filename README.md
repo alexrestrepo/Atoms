@@ -4,7 +4,7 @@ I used these in a previous life to inspect atom layout in video files, someone m
 
 Sample output:
 ```
-File read: 
+File read: 'Video.mp4'
 [MP4File: 4 top level atoms]
 ['file'][0 + 4860557(4860557): 4860557]
  ├─['ftyp'][0 + 32(32): 32]
